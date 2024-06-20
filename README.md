@@ -6,13 +6,21 @@ This dataset consists of two CSV files one for training and one for testing. The
 
 # Algorithm
 1.Reading the dataset
+
 2.Splitting the data for training and testing the model
+
 3.Model Building: [K-Fold Cross-Validation, Support Vector Classifier, Gaussian Naïve Bayes classifier, Random Forest classifier]
+
 4.Using K-Fold Cross-Validation for model selection
+
 5.Building robust classifier by combining all models
+
 6.Fitting the model on whole data and validating on the Test dataset
+
 7.Creating a function that can take symptoms as input and generate predictions for disease
+
 8.Calling the function
+
 9.End of the program
 
 # Approach
